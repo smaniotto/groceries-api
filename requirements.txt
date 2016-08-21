@@ -1,0 +1,5 @@
+click==6.6
+Django==1.10
+ordereddict==1.1
+psycopg2==2.6.2
+python-dotenv==0.5.1
